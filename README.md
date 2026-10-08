@@ -1,24 +1,48 @@
-<h1 align="center">Hi 👋, I'm Sabbir Ahmed Sohan</h1>
-<h3 align="center">A passionate mobile application developer(flutter) from Bangladesh.</h3>
+# Hi there, I'm Sabbir Ahmed Sohan 👋
+### Mobile Application Engineer (Flutter & Dart)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsohan100&label=Profile%20views&color=0e75b6&style=flat" alt="iamsohan100" /> </p>
+Passionate Flutter Developer experienced in building scalable, production-ready mobile applications using Clean Architecture, GetX, and Provider.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsohan100" alt="iamsohan100" /></a> </p>
+- 🔭 Currently working at: **Sparktech Agency**
+- 🌱 Exploring: **AI APIs integration & Real-time WebRTC/Socket systems**
+- 💬 Ask me about: **Flutter, Dart, Clean Architecture, State Management, Agora**
+- 🌐 Portfolio: [mrsohan.com](https://www.mrsohan.com)
+- 📫 Reach me: **iamsohan11@gmail.com** | [LinkedIn](https://linkedin.com/in/mrsohan)
 
-- 📫 How to reach me **iamsohan11@gmail.com**
+---
 
-- 📄 Know about my experiences [https://iamsohan100.netlify.app/](https://iamsohan100.netlify.app/)
+### 🛠️ Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iamsohan100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamsohan100" height="30" width="40" /></a>
+**Languages & Frameworks:**  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Architecture & State Management:**  
+`Clean Architecture` `MVVM` `MVC` `GetX` `Provider` `BLoC`
+
+**Backend, Cloud & Services:**  
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![Agora](https://img.shields.io/badge/Agora.io-099DFD?style=for-the-badge)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrsohan-100&show_icons=true&theme=tokyonight&hide_border=true" alt="Sohan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsohan-100&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsohan100&show_icons=true&locale=en&layout=compact" alt="iamsohan100" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsohan100&show_icons=true&locale=en" alt="iamsohan100" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsohan100&" alt="iamsohan100" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsohan-100&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
